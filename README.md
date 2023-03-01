@@ -4,15 +4,15 @@ The officail codebase of VideoPipe dataset. We will update the data and code of 
 
 **ToDo**
 
-- [ ] Update the code of 1st team's codabases on VideoPipe.
+- [ ] Update the code of champion team on VideoPipe.
 
 
 
 ## 📰 News
 
-* **[2022-03-05]**: We have published competitions for VideoPipe on [Workshop@ICPR2022 Track: Temporal Defect Localization](https://codalab.lisn.upsaclay.fr/competitions/2284).
+* **[2022-03-05]**: We have published competitions for VideoPipe [ICPR2022 Track: Temporal Defect Localization](https://codalab.lisn.upsaclay.fr/competitions/2284).
 
-* **[2022-03-05]**: We have published competitions for VideoPipe on [Workshop@ICPR2022 Track: Video Defect Classification](https://codalab.lisn.upsaclay.fr/competitions/2232).
+* **[2022-03-05]**: We have published competitions for VideoPipe [ICPR2022 Track: Video Defect Classification](https://codalab.lisn.upsaclay.fr/competitions/2232).
 
 
 
