@@ -9,7 +9,7 @@ The officail codebase of VideoPipe dataset. We will update the data and code of 
 
 
 ## 📰 News
-
+* **[2023-03-08]**: We have open the test leaderboards for these two competitions, and you can submit your results on codalab for your research.
 * **[2022-03-05]**: We have published competitions for VideoPipe [ICPR2022 Track: Temporal Defect Localization](https://codalab.lisn.upsaclay.fr/competitions/2284).
 
 * **[2022-03-05]**: We have published competitions for VideoPipe [ICPR2022 Track: Video Defect Classification](https://codalab.lisn.upsaclay.fr/competitions/2232).
