@@ -2,13 +2,11 @@
 The officail codebase of VideoPipe dataset. We will update the data and code of our VideoPipe.
 [[Project]](https://videopipe.github.io/)    [[Arxiv]](https://arxiv.org/abs/2210.11158)   
 
-**ToDo**
-
-- [ ] Update the code of champion team on VideoPipe.
 
 
 
 ## 📰 News
+* **[2023-04-10]**: Update the download links of our FineAction.
 * **[2023-03-08]**: We have open the test leaderboards for these two competitions, and you can submit your results on codalab for your research.
 * **[2022-03-05]**: We have published competitions for VideoPipe [ICPR2022 Track: Temporal Defect Localization](https://codalab.lisn.upsaclay.fr/competitions/2284).
 
@@ -17,6 +15,8 @@ The officail codebase of VideoPipe dataset. We will update the data and code of 
 
 
 ## ⚡️ Data Download
+
+You can download the dataset from OpenDataLab https://openxlab.org.cn/datasets/OpenDataLab/VideoPipe
 
 * **raw videos**: You should obey the terms and conditions and download them from our competition pages.
 * **eval_detection.py**：Evaluation code for Track: Temporal Defect Localization.
